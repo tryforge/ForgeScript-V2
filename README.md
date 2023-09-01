@@ -1,5 +1,5 @@
 # ForgeScript
-Description of ForgeScript here FR
+ForgeScript is a comprehensive package that empowers you to effortlessly interact with Discord's API. It ensures scripting remains easy to learn and consistently effective.
 
 ## Index
 <strong>
