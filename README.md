@@ -48,7 +48,7 @@ This section will guide you through initializing a client and loading commands f
 ### Client Initialization
 We will write the following for a basic bot initialization, in a `index.js` file:
 ```js
-const { ForgeClient } = require("forgescript")
+const { ForgeClient } = require("@tryforge/forgescript")
 
 const client = new ForgeClient({
     intents: [
